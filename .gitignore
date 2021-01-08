@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/OrderProcessor/.vs/OrderProcessor/v16/TestStore/0
+/OrderProcessor/OrderProcessor/bin/Debug/netcoreapp3.1
+/OrderProcessor/OrderProcessor/obj
+/OrderProcessor/OrderProcessor.Tests/bin/Debug/netcoreapp3.1
+/OrderProcessor/OrderProcessor.Tests/obj
